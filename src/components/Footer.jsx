@@ -60,7 +60,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-gray-600 font-medium">
               <li>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/maAce59/user-management-dashboard.git"
                   target="_blank"
                   rel="noreferrer"
                   className="hover:text-orange-700 transition-colors"
